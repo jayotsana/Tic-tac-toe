@@ -5,11 +5,9 @@ I created this program for practice with coding in the Python language, which I 
 # Language
 - Python
 
+# How to install
+- Download from [https://www.python.org/downloads/] and then install it.
+
 # How to run
-- Download from https://www.python.org/downloads/ and then install it.
-
-
-
-
-
+- python tic-tac-toe.py
 ![image](https://user-images.githubusercontent.com/54844992/64303648-aa49e100-cfa6-11e9-9f8c-08f0f450dfe5.png)
