@@ -20,3 +20,6 @@ python tic-tac-toe.py
 
 # Output 
 - Output of Winner player.
+
+![image](https://user-images.githubusercontent.com/54844992/64304942-61485b80-cfab-11e9-92e1-ad26355e8b85.png)
+
