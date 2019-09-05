@@ -8,7 +8,15 @@ I created this program for practice with coding in the Python language, which I 
 # How to install
 - Download from [https://www.python.org/downloads/] and then install it.
 
+# Requirements
+## The basic requirements for the game are:
+
+store a game board  automatically assign one of them the circle and the other the 'x'allow each to play a turn, one at a time, during which the player selects a square of the board and it is filled in with their symbol indicate when one of the players has won give the message to X is won Or O is Won.
+
 # How to run
 python tic-tac-toe.py
 
 ![image](https://user-images.githubusercontent.com/54844992/64303648-aa49e100-cfa6-11e9-9f8c-08f0f450dfe5.png)
+
+# Output 
+- Output of Winner player.
